@@ -1,0 +1,6 @@
+//new file added direct from GitHub
+
+public static void main(String[] args){
+
+System.out.println("File Created in Git Hub directly");
+}
